@@ -1,2 +1,2 @@
-# Student-Management-System
-Spring Boot + thymeleaf ile proje
+# Student Management System
+ Java with Spring Boot
